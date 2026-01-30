@@ -19,3 +19,12 @@ VALUES
 (107, 'Sid', 72,'Pune');
 
 SELECT * FROM students_data;
+-- output -
+-- 101	A01	78	Pune
+-- 102	W21	93	Goa
+-- 103	B23	85	Goa
+-- 104	Chetan	96	Delhi
+-- 105	Rohit	12	Delhi
+-- 106	Raman	82	Delhi
+-- 107	Sid	72	Pune
+			
