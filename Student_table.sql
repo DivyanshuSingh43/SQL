@@ -12,7 +12,7 @@ CREATE TABLE students (
 
 INSERT INTO students (rollno, name, marks, grade, city)
 VALUES
-(101, 'Anil', 78, 'C', 'Pune'),
+(101, 'Anil', 78, 'C', 'Pune'), 
 (102, 'Aman', 93, 'A', 'Goa'),
 (103, 'Bhumi', 85, 'B', 'Goa'),
 (104, 'Chetan', 96, 'A', 'Delhi'),
