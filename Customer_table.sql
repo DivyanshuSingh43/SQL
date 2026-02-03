@@ -11,7 +11,7 @@ CREATE TABLE students_data (
 INSERT INTO students_data (order_id,customer_id,amount,city)
 VALUES
 (101, 'A01', 78, 'Pune'),
-(102, 'W21', 93,'Goa'),
+(102, 'W21', 93,'Goa'), 
 (103, 'B23', 85,'Goa'),
 (104, 'Chetan', 96,'Delhi'),
 (105, 'Rohit', 12,'Delhi'),
