@@ -8,7 +8,7 @@ CREATE TABLE students (
     marks INT,
     grade CHAR(1),
     city VARCHAR(50)
-);
+); 
 
 INSERT INTO students (rollno, name, marks, grade, city)
 VALUES
