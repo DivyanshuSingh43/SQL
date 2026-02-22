@@ -19,5 +19,5 @@ VALUES
 (105, 'Rohit', 12, 'F', 'Delhi'),
 (106, 'Raman', 82, 'B', 'Delhi'),
 (107, 'Sid', 72, 'B', 'Pune');
-
+ 
 SELECT * FROM students;
