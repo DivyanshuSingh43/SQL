@@ -7,7 +7,7 @@ CREATE TABLE students_data (
     amount INT,
     city VARCHAR(50)
 );  
-
+ 
 INSERT INTO students_data (order_id,customer_id,amount,city)
 VALUES
 (101, 'A01', 78, 'Pune'), 
