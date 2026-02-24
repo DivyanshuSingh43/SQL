@@ -26,5 +26,5 @@ SELECT * FROM students_data;
 -- 104	Chetan	96	Delhi
 -- 105	Rohit	12	Delhi
 -- 106	Raman	82	Delhi
--- 107	Sid	72	Pune
+-- 107	Sid	72	Pune 
 			
