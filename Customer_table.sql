@@ -1,4 +1,4 @@
--- CREATE DATABASE Topper_record
+ -- CREATE DATABASE Topper_record
 USE Topper_record; 
 
 CREATE TABLE students_data (
