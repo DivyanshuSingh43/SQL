@@ -1,5 +1,5 @@
 -- CREATE DATABASE Topper_record
-USE Topper_record;
+USE Topper_record; 
 
 CREATE TABLE students_data (
     order_id INT PRIMARY KEY,
